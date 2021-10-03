@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ankitkumardmk98
 - 👀 I’m interested in Python Programming
-- 💞️ Dream at Google Mountain View
+- 💞️ Dream at Google, U.S.A
+- 💞️ Dream at Microsoft, U.S.A
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me,
