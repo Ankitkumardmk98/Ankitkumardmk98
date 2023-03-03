@@ -1,2 +1,1 @@
-000000000000..........n()
-Trying to become Network Automation Engineer 🥰
+Hey there! I'm a self-taught web developer with intermediate-level skills in front-end and back-end web development. I'm currently learning Python and exploring the field of computer science to broaden my horizons. My GitHub profile showcases some of the projects I've worked on, ranging from simple web applications to full-stack projects. I'm passionate about contributing to the open-source community and always seeking new opportunities to collaborate and learn from other developers. Follow me on my journey to becoming a well-rounded software developer!
